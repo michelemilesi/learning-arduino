@@ -1,2 +1,2 @@
 # learning-arduino
-Learning sketchs for Arduino
+Learning sketches for Arduino
